@@ -1,4 +1,4 @@
-<img src="[https://unoycerodigital.com.co/images/logoUnoycero.png]" width="320" alt="unoycerodigital">
+<img src="logo.png" width="320" alt="unoycerodigital">
 
 ### Software, APIs y automatización con IA — Bogotá, Colombia
 
